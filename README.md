@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Maximilian Linhoff, an astrophysicist and scientific software engineer working in high energy gamma-ray astronomy.
+
+Most of my work is focused on the [Cherenkov Telescope Array Observatory](https://ctao.org), a new instrument currently being constructed.
+Here, I work on the data processing and preservation pipeline and on calibration and analysis of the data of the first operating
+telescope built for CTAO: the [Large-Sized Telescope 1](https://lst1.iac.es) on La Palma.
+
+
+
 <!--
 **maxnoe/maxnoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
